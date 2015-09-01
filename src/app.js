@@ -1,4 +1,4 @@
 import React from 'react';
-import PersonList from './PersonList';
+import PersonListContainer from './PersonListContainer';
 
-React.render(<PersonList/>, document.body);
+React.render(<PersonListContainer/>, document.body);
